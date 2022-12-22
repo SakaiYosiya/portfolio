@@ -45,7 +45,7 @@ section{
 }
 .hero {
   /* アクセスに注意 */
-  background-image:url("../img/heriberto-garcia-YdjrYLvLO5Y-unsplash.jpg"); 
+  background-image:url("heriberto-garcia-YdjrYLvLO5Y-unsplash.jpg"); 
   /* 画像の中心を持ってくる */
   background-position: center;
   /* 画面いっぱいに */
@@ -125,7 +125,7 @@ section{
 }
 
 .col-img{
-  background-image: url("../img/cover2.jpg");
+  background-image: url("cover2.jpg");
   background-position: center;
   background-size:cover;
   min-height: 500px;
